@@ -3,7 +3,7 @@
 1. Клонування проекту з GitHub:
 
 
-git clone https://github.com/username/repository.git
+git clone https://github.com/tanyakovalenko1/repository.git
 cd repository
 
 
